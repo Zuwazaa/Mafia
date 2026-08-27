@@ -1,0 +1,6 @@
+{
+  "name": "Mafia Online - Real Vaqtli Ko'p O'yinchili O'yin",
+  "description": "O'zbek tilidagi real vaqtli, maxfiy rollar, interaktiv tun/kun fazalari, ovoz berish va chatga ega zamonaviy Mafia o'yini",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
